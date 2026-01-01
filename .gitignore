@@ -1,0 +1,17 @@
+# Gradle build files
+.gradle/
+build/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Eclipse files
+*.classpath
+*.project
+
+# Minecraft / Fabric cache
+loom-cache/

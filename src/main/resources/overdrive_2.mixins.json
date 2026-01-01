@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.ashmeetop.overdrive_2.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "overdrive_2.refmap.json",
+  "client": [
+    "MinecraftClientMixin",
+    "GameOptionsMixin",
+    "WorldRendererMixin",
+    "EntityRenderDispatcherMixin",
+    "ParticleManagerMixin",
+    "BackgroundRendererMixin",
+    "InGameHudMixin",
+    "ChunkBuilderMixin",
+    "BufferBuilderMixin",
+    "MathHelperMixin",
+    "ChunkOcclusionDataBuilderMixin",
+    "ClientWorldMixin"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

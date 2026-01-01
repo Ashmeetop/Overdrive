@@ -1,0 +1,17 @@
+{
+  "enableFastGraphics": true,
+  "maxRenderDistance": 6,
+  "reduceParticles": true,
+  "optimizeEntities": true,
+  "reduceSkyEffects": true,
+  "fastMath": true,
+  "chunkUpdateThreads": 2,
+  "disableVignette": true,
+  "reduceWeatherEffects": true,
+  "enableDynamicScaling": true,
+  "aggressiveBackgroundOptimization": true,
+  "enablePerformanceMonitoring": true,
+  "targetFPS": 45,
+  "reduceEntityAnimations": false,
+  "simplifyBlockRendering": true
+}

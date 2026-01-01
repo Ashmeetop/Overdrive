@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "overdrive_2",
+  "version": "${version}",
+  "name": "Overdrive_2",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/ASHMEET/Overdrive_2"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/overdrive_2/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.ashmeetop.overdrive_2.Overdrive_2"
+    ]
+  },
+  "mixins": [
+    "overdrive_2.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

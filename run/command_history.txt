@@ -1,0 +1,2 @@
+/particle minecraft:angry_villager ~ ~ ~ ~ ~ ~ 34344 342524 normal
+/particle minecraft:campfire_cosy_smoke ~ ~ ~ ~ ~ ~ 8 445554545 normal
