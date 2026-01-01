@@ -9,6 +9,10 @@
 - Reduces unnecessary rendering and entity load
 - Customizable settings via config files
 
+## Note on AI-Generated Code
+
+Some parts of this mod’s source code were **assisted or generated using AI tools**. While every effort has been made to ensure correctness and safety, users should **verify and review code** before making modifications or redistribution.
+
 ## Installation
 
 1. Make sure you have [Fabric Loader](https://fabricmc.net/use/) installed.
